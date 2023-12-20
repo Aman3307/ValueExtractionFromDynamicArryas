@@ -1,0 +1,90 @@
+{
+  "ArrayOfPNRQueue": {
+    "PNRQueue": [
+      {
+        "QueueName": "EMRFND1",
+        "TemplateID": "1107163576128781488",
+        "PNRProperty1": "UniquePropertyPNR1"
+      },
+      {
+        "QueueName": "EMRFND2",
+        "PaymentMode": "NONAG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check your original source of payment for the credit status within 10 working days.",
+        "TemplateID": "1107163583294981010",
+        "PNRProperty2": "UniquePropertyPNR2"
+      },
+      {
+        "QueueName": "NSHREV1",
+        "PaymentMode": "AG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check with your Travel Agency using the PNR/Booking Reference No. within 15 working days.",
+        "TemplateID": "1107163576128781489",
+        "PNRProperty3": "UniquePropertyPNR3"
+      },
+      {
+        "QueueName": "NSHREV2",
+        "PaymentMode": "NONAG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check your original source of payment for the credit status within 10 working days.",
+        "TemplateID": "1107163583294981011",
+        "PNRProperty4": "UniquePropertyPNR4"
+      },
+      {
+        "QueueName": "BQREV1",
+        "PaymentMode": "AG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check with your Travel Agency using the PNR/Booking Reference No. within 15 working days.",
+        "TemplateID": "1107163576128781487",
+        "PNRProperty5": "UniquePropertyPNR5"
+      },
+      {
+        "QueueName": "BQREV2",
+        "PaymentMode": "NONAG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check your original source of payment for the credit status within 10 working days.",
+        "TemplateID": "1107163583294981012",
+        "PNRProperty6": "UniquePropertyPNR6"
+      }
+    ],
+    "SMSQueue": [
+      {
+        "QueueName": "EMRFND1",
+        "PaymentMode": "AG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check with your Travel Agency using the PNR/Booking Reference No. within 15 working days.",
+        "TemplateID": "11071635761287814881",
+        "SMSSpecificProperty1": "UniquePropertySMS1"
+      },
+      {
+        "QueueName": "EMRFND2",
+        "PaymentMode": "NONAG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check your original source of payment for the credit status within 10 working days.",
+        "TemplateID": "1107163583294981010",
+        "SMSSpecificProperty2": "UniquePropertySMS2"
+      },
+      {
+        "QueueName": "NSHREV1",
+        "PaymentMode": "AG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check with your Travel Agency using the PNR/Booking Reference No. within 15 working days.",
+        "TemplateID": "11071635761287814882",
+        "SMSSpecificProperty3": "UniquePropertySMS3"
+      },
+      {
+        "QueueName": "NSHREV2",
+        "PaymentMode": "NONAG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check your original source of payment for the credit status within 10 working days.",
+        "TemplateID": "1107163583294981010",
+        "SMSSpecificProperty4": "UniquePropertySMS4"
+      },
+      {
+        "QueueName": "BQREV1",
+        "PaymentMode": "AG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check with your Travel Agency using the PNR/Booking Reference No. within 15 working days.",
+        "TemplateID": "11071635761287814883",
+        "SMSSpecificProperty5": "UniquePropertySMS5"
+      },
+      {
+        "QueueName": "BQREV2",
+        "PaymentMode": "NONAG",
+        "TemplateBody": "Dear {{PAXNAME}}, your request for refund has been initiated. Please check your original source of payment for the credit status within 10 working days.",
+        "TemplateID": "11071635832949810104",
+        "SMSSpecificProperty6": "UniquePropertySMS6"
+      }
+    ]
+  }
+}

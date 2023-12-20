@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueExtractionFromDynamicArryas", "ValueExtractionFromDynamicArryas.csproj", "{34BF934C-867C-45BD-8691-C72D5C8D542B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34BF934C-867C-45BD-8691-C72D5C8D542B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BF934C-867C-45BD-8691-C72D5C8D542B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BF934C-867C-45BD-8691-C72D5C8D542B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BF934C-867C-45BD-8691-C72D5C8D542B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0DFF0A4-5463-43A6-8B3D-F7DE4B1619AC}
+	EndGlobalSection
+EndGlobal
